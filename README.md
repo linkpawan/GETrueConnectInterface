@@ -1,8 +1,8 @@
 # GETrueConnectInterface
-This is UI tool which utilizes GE's true connect console application.
+This is UI tool for GE's true connect console application.
 GE trueconnect github can be found here: https://github.com/GeneralElectric/TrueConnect-Link
 
-This tool UI for 4 core features in True connect link
+This tool provides UI for 4 core features in Trueconnectlink
 1. Test
 2. Single File Upload
 3. Onetime file upload
@@ -22,7 +22,7 @@ Steps:
 5. Modify line 13-21 and put in all the values provided by GE.
 6. Navigate to TrueConnectInterface\Properties\AssemblyInfo.cs (VS: Properties\AssemblyInfo.cs)
 7. Navigate to line 8
-8. Modify line 8-15 (Abide by License agreement)
+8. Modify line 8-15 (Refer License agreement)
 9. Save all changes and Build/Compile the code, obtain the EXE file from bin folder and use application as standalone executable.
 
 Important!
