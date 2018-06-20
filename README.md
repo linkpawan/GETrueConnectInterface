@@ -1,5 +1,5 @@
 # GETrueConnectInterface
-This is UI tool, for GE's true connect console application, written in C#.NET.
+This is UI tool, for GE's true connect console application, written in C#.NET4.
 GE trueconnect github can be found here: https://github.com/GeneralElectric/TrueConnect-Link
 
 This tool provides UI for 4 core features in Trueconnectlink
