@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("XXXXAirlinesInc")]
 [assembly: AssemblyProduct("TrueConnectInterface")]
-[assembly: AssemblyCopyright("Copyright ©  XXXX Airlines Inc 2018")] //Currently Assembeled for XXXX Airlines Inc
+[assembly: AssemblyCopyright("Copyright ©  Pawan Acharya 2018")] 
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
